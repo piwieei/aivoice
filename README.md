@@ -63,4 +63,4 @@ This project is built with pure frontend technologies:
 - CSS3 (responsive design)
 - JavaScript (ES6+)
 
-No server-side support is required, it can run directly in any modern browser. 
+No server-side support is required, it can run directly in any modern browser. # aivoice
