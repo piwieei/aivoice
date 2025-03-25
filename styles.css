@@ -787,7 +787,7 @@ h2 {
     transform: translateY(0);
 }
 
-/* 调整卡片悬停效果 */
+/* Adjust Card Hover Effects */
 .tool-card:hover .tool-link {
     box-shadow: 0 5px 15px rgba(59, 130, 246, 0.4);
 }
